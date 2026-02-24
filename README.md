@@ -235,7 +235,7 @@ https://hub.docker.com/r/sandy2003/dd-frontend
 ---
 
 ### ✅ Application UI
-![Working UI](screenshots/ui.png)
+![Working UI](screenshots/ Working UI.png)
 
 ---
 
