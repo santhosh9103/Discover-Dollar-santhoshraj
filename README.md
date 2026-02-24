@@ -220,27 +220,27 @@ https://hub.docker.com/r/sandy2003/dd-frontend
 ## 📸 Screenshots
 
 ### ✅ CI/CD Pipeline Execution
-![CI/CD Pipeline](screenshots/GitHub-Actions-sucess.png)
+![CI/CD Pipeline](screenshots/GitHub%20Actions%20success.png)
 
 ---
 
 ### ✅ Docker Image Build & Push
-![Docker Build & Push](screenshots/docker-build-push.png)
+![Docker Build & Push](screenshots/Docker%20Hub%20images.png)
 
 ---
 
 ### ✅ Running Containers
-![Docker Containers](screenshots/docker-ps.png)
+![Docker Containers](screenshots/Docker%20ps.png)
 
 ---
 
 ### ✅ Application UI
-![Working UI](screenshots/ Working UI.png)
+![Working UI](screenshots/Working%20UI.png)
 
 ---
 
 ### ✅ Nginx Reverse Proxy Validation
-![Nginx Test](screenshots/nginx-test.png)
+![Nginx Test](screenshots/nginx%20-t.png)
 
 ---
 
