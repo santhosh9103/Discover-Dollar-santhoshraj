@@ -43,7 +43,9 @@ jobs:
           username: ubuntu
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
-            docker pull sandy2003/dd-backend:latest
-            docker pull sandy2003/dd-frontend:latest
-            docker-compose down
-            docker-compose up -d
+            script: |
+              cd Discover-Dollar-santhoshraj
+              docker pull sandy2003/dd-backend:latest
+              docker pull sandy2003/dd-frontend:latest
+              docker-compose down
+              docker-compose up -d
